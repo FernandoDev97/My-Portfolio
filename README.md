@@ -12,6 +12,7 @@ Bem-vindo ao meu portfólio! Aqui você encontrará uma coleção apaixonada dos
 - React.js
 - Next.js (13.4)
 - TypeScript
+- Node.js
 - Tailwind
 - ReactHookForm
 - Zod
