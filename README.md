@@ -7,7 +7,7 @@ Bem-vindo ao meu portfólio! Aqui você encontrará uma coleção apaixonada dos
 
 [![Deploy](https://user-images.githubusercontent.com/71772559/178192066-d52e0cf7-906e-4baa-80f3-4b49dde153c0.png)](https://fs-portfolio-me.vercel.app/)
 
-### Nesse projeto foi utilizado as seguintes tecnologias:
+## Nesse projeto foi utilizado as seguintes tecnologias:
 
 - React.js
 - Next.js (13.4)
@@ -20,26 +20,7 @@ Bem-vindo ao meu portfólio! Aqui você encontrará uma coleção apaixonada dos
 - Graphql
 - Hygraph
 
-### Getting Started
-
 A versão do Node utilizada foi: 
 ```bash 
 v16.15.0 
 ``` 
-
-Agora, instale as dependências com:
-
-```bash
-npm install
-# ou
-yarn 
-```
-
-Depois, execute o ambiente de desenvolvimento com:
-
-```bash
-npm run dev
-# ou
-yarn dev
-```
-Veja o resultado em [http://localhost:3000](http://localhost:3000)
