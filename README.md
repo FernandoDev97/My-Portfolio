@@ -20,6 +20,7 @@ Bem-vindo ao meu portfólio! Aqui você encontrará uma coleção de projetos e 
 - Framer Motion
 - Graphql
 - Hygraph
+- JAMStack
 
 A versão do Node utilizada foi: 
 ```bash 
