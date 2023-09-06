@@ -1,7 +1,7 @@
 
 # Meu Portfólio
 
-Bem-vindo ao meu portfólio! Aqui você encontrará uma coleção apaixonada dos meus projetos e conquistas. Sou apaixonado por tecnologia e programação, e este espaço é onde dou vida às minhas ideias. Sinta-se à vontade para explorar e inspirar-se.
+Bem-vindo ao meu portfólio! Aqui você encontrará uma coleção de projetos e conquistas. Sou apaixonado por tecnologia e programação, e este espaço é onde dou vida às minhas ideias. Sinta-se à vontade para explorar e inspirar-se.
 
 ![Meu-portfólio](https://github-production-user-asset-6210df.s3.amazonaws.com/85572838/264180570-a04f4429-f31a-4526-b5a2-1907203686a8.png)
 
